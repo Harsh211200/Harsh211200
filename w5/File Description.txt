@@ -1,0 +1,6 @@
+File description
+6A - MYSQLI_NUM
+6B - Mysqli_num_rows
+6C - MYSQLI_ASSOC
+6D - MYSQLI_BOTH
+
